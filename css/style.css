@@ -1,5 +1,5 @@
 body{
-    background-image: url('/img/kosmos.jpeg');
+    background-image: url('../img/kosmos.jpeg');
     background-size: 100% 150%;
     background-repeat: no-repeat;
 }
@@ -79,7 +79,7 @@ transition: 0.2s linear;
     position: absolute;
     top:5px;
     right:10px;
-    background-image:url("/img/remove.png");
+    background-image:url("../img/remove.png");
     background-repeat:no-repeat ;
     background-size: 40px 40px;
     width: 40px;
@@ -89,7 +89,7 @@ transition: 0.2s linear;
     position: absolute;
     top:5px;
     right:60px;
-    background-image:url("/img/mars.png");
+    background-image:url("../img/mars.png");
     background-repeat:no-repeat ;
     background-size: 40px 40px;
     width: 40px;
@@ -99,7 +99,7 @@ transition: 0.2s linear;
     position: absolute;
     top:5px;
     right:60px;
-    background-image:url("/img/earth.png");
+    background-image:url("../img/earth.png");
     background-repeat:no-repeat ;
     background-size: 40px 40px;
     width: 40px;
